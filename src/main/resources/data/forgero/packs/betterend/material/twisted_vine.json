@@ -12,6 +12,7 @@
         "type": "RARITY",
         "order": "COMPOSITE",
         "operation": "ADDITION",
+        "category": "ALL",
         "value": 10
       },
       {

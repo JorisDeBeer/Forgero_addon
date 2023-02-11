@@ -13,7 +13,7 @@
         "type": "RARITY",
         "order": "COMPOSITE",
         "operation": "ADDITION",
-        "value": 15
+        "value": 20
       },
       {
         "type": "MINING_SPEED",

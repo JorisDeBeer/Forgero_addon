@@ -1,6 +1,6 @@
 {
   "type": "PLANT",
-  "name": "blue_vine",
+  "name": "blue_vine_fur",
   "parent": "vines",
   "container": {
     "type": "HOST",

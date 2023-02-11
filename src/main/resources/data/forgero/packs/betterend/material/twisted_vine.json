@@ -1,0 +1,16 @@
+{
+  "type": "PLANT",
+  "name": "twisted_vine",
+  "parent": "vines",
+  "container": {
+    "type": "HOST",
+    "id": "betterend:twisted_vine"
+  },
+  "properties": {
+    "attributes": [
+    ]
+  },
+  "palette": {
+    "name": "twisted_vine"
+  }
+}

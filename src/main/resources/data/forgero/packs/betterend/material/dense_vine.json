@@ -1,0 +1,22 @@
+{
+  "type": "PLANT",
+  "name": "dense_vine",
+  "parent": "vines",
+  "container": {
+    "type": "HOST",
+    "id": "betterend:dense_vine"
+  },
+  "properties": {
+    "attributes": [
+    ],
+    "features": [
+      {
+        "type": "EMISSIVE",
+        "value": 8
+      }
+    ]
+  },
+  "palette": {
+    "name": "dense_vine"
+  }
+}

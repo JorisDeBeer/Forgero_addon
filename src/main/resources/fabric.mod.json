@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "forgero_addon",
+  "version": "0.0.1",
+
+  "name": "Forgero Compat",
+  "description": "Trying to make forgero integrate more mods",
+  "authors": [
+    "JorisDeBeer"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/modid/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.fabricmc.example.ExampleMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.12.12",
+    "minecraft": "~1.19.2",
+    "java": ">=17"
+  },
+  "suggests": {
+    "forgero": "*"
+  },
+  "custom": {
+    "forgeroResource": true
+    }
+}

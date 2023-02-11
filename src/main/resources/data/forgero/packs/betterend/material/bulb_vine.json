@@ -1,0 +1,22 @@
+{
+  "type": "PLANT",
+  "name": "bulb_vine",
+  "parent": "vines",
+  "container": {
+    "type": "HOST",
+    "id": "betterend:bulb_vine"
+  },
+  "properties": {
+    "attributes": [
+    ],
+    "features": [
+      {
+        "type": "EMISSIVE",
+        "value": 8
+      }
+    ]
+  },
+  "palette": {
+    "name": "bulb_vine"
+  }
+}

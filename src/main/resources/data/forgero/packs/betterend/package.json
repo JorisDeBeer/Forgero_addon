@@ -6,6 +6,7 @@
   "dependencies": [
     "minecraft",
     "forgero",
-    "minecraft-vanilla"
+    "minecraft-vanilla",
+    "betterend"
   ]
 }
